@@ -374,6 +374,8 @@
 * [ae-project](https://ae-project.su/)
 * [godownloads](https://www.godownloads.org/)
 * [PanosFX](https://www.panosfx.com/) or [Fix the Photo](https://fixthephoto.com/free-photoshop-actions) - Photoshop Actions
+* [Logorary](https://logorary/) - Brand Logos in PNG, SVG
+* [PlusPNG](https://pluspng/)
 
 ***
 
